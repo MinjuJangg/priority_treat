@@ -1,7 +1,7 @@
 # 🪖 Threat Priority Estimation with Uncertainty for Unmanned Tanks
 
 불확실성 추정을 포함한 무인전차용 위협 우선순위 판단 알고리즘  
-Yonsei University 
+[Yonsei University 연구실 내 육군 소위 개인 연구] 
 
 Object Detection → Threat Ranking → Uncertainty Estimation (End-to-End)
 
